@@ -8,6 +8,8 @@
 4. Esset Inventory - SAAS app for inventory, stock management - [https://esset-inventory.vercel.app/] , [https://github.com/HuluWZ/EssetInventory-API, https://github.com/HuluWZ/essetInventorty-Client] , NodeJs, MongoDb, React
 
 5. Adinas Fleet Management System - Fleet Management system for car rent , [https://adinascarrent.com/] , [https://github.com/HuluWZ/Adinas-Fleet-Management-System], Django , Postgesql , Django-Rest-Framework (DRF), Redis , Firebase, Bootstrap
+   
+6. Esset Finance -SAAS Finance App: Manage budgets, track expenses, generate reports, invoicing, and analytics. - [https://dev--moonlit-malasada-3f625c.netlify.app/] , [https://github.com/HuluWZ/esset-finance] , NodeJs, MongoDb, React
 
 
 
